@@ -1,0 +1,23 @@
+
+{
+"_id": "62485daa9c6bb03ed0fe829a",
+"title": "REST",
+"content": "REST stands for REpresentational State Transfer. It's an architectural style for designing APIs."
+},
+{
+"_id": "624860f79c6bb03ed0fe82a3",
+"title": "Node.js",
+"content": "Node.js is a framework of JavaScript, used to develop server side apps"
+},
+{
+"_id": "624861839c6bb03ed0fe82a5",
+"title": "JavaScript",
+"content": "JavaScript is used to write logic web pages on the client side."
+},
+{
+"_id": "62488f868b0b5d012d07d27d",
+"title": "Lionel Messi",
+"content": "Lionel Messi, often considered the greatest footballer of all times, was born in 1987.",
+"__v": 0
+}
+]
